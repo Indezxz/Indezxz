@@ -15,7 +15,7 @@
 
 
 <!-- Sección de Proyectos -->
-<details open> <summary><h2>📘 Mi Top de Proyecto con React y Node</h2></summary>
+<details open> <summary><h2>📘 Mis Proyectos en Java</h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
@@ -35,24 +35,6 @@
   </a>
 </details>
 
-<!-- Sección de Proyectos en PHP, JS vanilla, WebPack, SASS -->
-<details open> <summary><h2>📘 Mi Top de Proyecto en PHP</h2></summary>
-  <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-     <!-- 1er Proyecto -->
-    <a href="https://github.com/renatosoca/Gestion_Citas_Medicas-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Citas_Medicas-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestión de Citas Médicas"></a> 
-     <!-- 2do Proyecto -->
-     <a href="https://github.com/renatosoca/Gestion_Proyectos-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Proyectos-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestor de Proyectos"></a> 
-     <!-- 3er Proyecto -->
-     <a href="https://github.com/renatosoca/Gestion_Conferencias-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Gestion_Conferencias-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gestor de Conferencias para Dev's"></a>
-     </p>
-   
-  <!-- Boton para ver todos mis proyectos en PHP -->
-  <a href="https://github.com/renatosoca?tab=repositories&q=&type=&language=php&sort=">
-    <img alt="Mis Repositorios" title="Todos mis repositorios en PHP" src="https://custom-icon-badges.demolab.com/badge/-Clic%20Aqu%C3%AD%20Para%20Ver%20Todos%20Mis%20Repositorios%20en%20PHP-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
 
 <!-- Mis Tecnologias -->
 <details open> <summary><h2>👨‍💻 Mis herramientas de trabajo</h2></summary>
@@ -60,19 +42,15 @@
    
   <h2>Frontend</h2>
   <p>
-      <a href="#"><img alt="Sass" src ="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
-      <a href="#"><img alt="Tailwind" src ="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="HTML" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   </p>
 
   <h2>Backend</h2>
   <p>
-      <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-      <a href="#"><img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
       <a href="#"><img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+
   </p>
 </details>
 
@@ -83,8 +61,5 @@
    </a>
    
    <br/>
-   
-   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Actividad Gráfica" src="https://github-readme-activity-graph.vercel.app/graph?username=renatosoca&bg_color=1F222E&color=4DB5FF&line=4DB5FF&point=FFFFFF&hide_border=true" /></a>
    
 </details>
