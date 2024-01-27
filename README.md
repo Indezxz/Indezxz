@@ -2,7 +2,7 @@
 <!-- Título -->
 <p align="center">
    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=1&pause=1000&color=4DB5FF&center=true&width=440&height=45&lines=Renato+Soca" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=1&pause=1000&color=4DB5FF&center=true&width=440&height=45&lines=Juan+Suarez" alt="Typing SVG" />
    </a>
 </p>
 
@@ -10,7 +10,7 @@
 <!-- Auto Tipado Sub Título -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Frontend;Est.+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Java;Est.+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
 
@@ -79,7 +79,6 @@
 <!-- Actividad en GitHub -->
 <details> <summary><h2>👨‍💻 Mi actividad en GitHub</h2></summary>
    
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadistica de mi GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=renatosoca&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF" height="190px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes Utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosoca&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF&hide_progress=false&hide=Hack" height="190px"/>
    </a>
    
