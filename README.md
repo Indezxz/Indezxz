@@ -23,12 +23,6 @@
 </a>
      <a href="https://github.com/renatosoca/TeamTasker-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=TeamTasker-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
  </a>
-     <a href="https://github.com/renatosoca/Calendar-Frontend-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Calendar-Frontend-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
-     <a href="https://github.com/renatosoca/Calendar-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Calendar-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Backend"></a>
-     <a href="https://github.com/renatosoca/Pet_Center-Frontend-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Frontend-React&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="FrontEnd"></a>
-     <a href="https://github.com/renatosoca/Pet_Center-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=Pet_Center-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true"     alt="Backend"></a>
-  </p>
-   
   <!-- Boton para ver todos mis proyectos -->
   <a href="https://github.com/renatosoca?tab=repositories">
     <img alt="Mis Repositorios" title="Todos mis Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Clic%20Aqu%C3%AD%20Para%20Ver%20Todos%20Mis%20Repositorios-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
