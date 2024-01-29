@@ -19,7 +19,7 @@
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-     <a href="https://github.com/renatosoca/TeamTasker-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=TeamTasker-Frontend&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
+     <a href="https://github.com/Indezxz/Crud_Estudiantes-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=indezxz&repo=Crud_Estudiantes-Java&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
 </a>
      <a href="https://github.com/renatosoca/TeamTasker-Backend-Node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renatosoca&repo=TeamTasker-Backend-Node&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
  </a>
