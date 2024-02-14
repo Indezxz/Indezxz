@@ -46,7 +46,7 @@
 <!-- Actividad en GitHub -->
 <details> <summary><h2>👨‍💻 Mi actividad en GitHub</h2></summary>
    
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes Utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosoca&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF&hide_progress=false&hide=Hack" height="190px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes Utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indezxz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4DB5FF&icon_color=4DB5FF&hide_progress=false&hide=Hack" height="190px"/>
    </a>
    
    <br/>
