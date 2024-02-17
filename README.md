@@ -15,7 +15,7 @@
 
 
 <!-- Sección de Proyectos -->
-<details open> <summary><h2>📘 Mis Proyectos en Java</h2></summary>
+<details open> <summary><h2>📘 Mis Proyectos </h2></summary>
   <!-- Repo de las cartas - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Repo de las cartas (Personalizadas) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
