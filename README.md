@@ -23,7 +23,8 @@
 </a>
    <a href="https://github.com/Indezxz/Crud_Usuarios-PHP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=indezxz&repo=Crud_Usuarios-PHP&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
 </a>
- 
+ <a href="https://github.com/Indezxz/Tienda_Ropa-JAVA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=indezxz&repo=Tienda_Ropa-JAVA&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
+</a>
 </details>
 
 
